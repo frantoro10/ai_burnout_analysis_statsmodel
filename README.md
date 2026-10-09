@@ -1,6 +1,6 @@
 # Análisis del burnout en desarrolladores de software
 
-Trabajo final de la materia **Desarrollo con AI**.
+Trabajo final de la materia **Desarrollo de Inteligencia Artificial**.
 
 **Docente:** Sol del Valle Figueroa
 
